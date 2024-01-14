@@ -1,0 +1,18 @@
+Общий объем продаж: 7550.0
+
+Топ популярных продуктов:
+Молоко
+Колбаса
+Мука
+
+Топ непопулярных продуктов: 
+Гвозди
+Штопор
+Корзинка
+Мука
+
+Транжиры: 
+Customer 2 - customer2@example.com
+Customer 3 - customer3@example.com
+Customer 4 - customer4@example.com
+Customer 5 - customer5@example.com
